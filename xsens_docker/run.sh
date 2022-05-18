@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# 
-#	--privileged \
-#	--cap-add=SYS_PTRACE \
-#	--security-opt seccomp=unconfined \
 #	--network host \
 #       -v `pwd`:/xsens \
 
